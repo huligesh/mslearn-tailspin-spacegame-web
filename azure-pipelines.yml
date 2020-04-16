@@ -1,8 +1,8 @@
 trigger:
 - '*'
 
-pool:
-  name: 'MyAgentPool'
+git add azure-pipelines.ymlpool:
+  name: 'Azure Pipelines'
   demands:
     - npm
 
